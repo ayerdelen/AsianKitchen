@@ -1,6 +1,6 @@
 # Asian-Kitchen
 
-[Click to see](https://ayerdelen.github.io/Asian-Kitchen/)
+[Click to see](https://ayerdelen.github.io/AsianKitchen/)
 
 - This is a personal project. I made restaurant menu and filter it by country.
 
