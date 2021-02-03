@@ -6,4 +6,51 @@ body {
     margin: 0;
     padding: 0;
     background-color: #f1f5f8;
+    font-family: 'Zilla Slab', serif;
+}
+.container {
+    display: flex;
+    justify-content: center;
+    
+}
+h2 {
+    font-family: 'Great Vibes', cursive;
+    font-size: 3rem;
+    text-align: center;
+    color: #ff6a23;
+}
+
+.photo {
+    width: 30%;
+    height: 175px;
+    object-fit: cover;
+    border: 0.25rem solid black;
+    border-radius: 10px;
+}
+.section-center {
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+}
+.menu-items {
+    display: flex;
+    margin-left: 30px;
+    width: 50%;
+}
+.menu-info {
+    margin-left: 20px;
+    width: 100%;
+}
+.menu-title {
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px solid black;
+}
+
+h4 {
+    color: #e00a00
+}
+
+.menu-text {
+    padding-top: 20px;
 }

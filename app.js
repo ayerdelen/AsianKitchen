@@ -5,7 +5,7 @@ const menu = [
       category: "Korea",
       price: 10.00,
       img: "https://twoplaidaprons.com/wp-content/uploads/2020/09/tteokbokki-top-down-view-of-tteokbokki-in-a-bowl-500x500.jpg",
-      desc: `Spicy rice cakes, serving with fish cake.`,
+      desc: ``,
     },
     {
       id: 2,
@@ -28,7 +28,7 @@ const menu = [
       title: "Dan Dan Mian",
       category: "China",
       price: 5.99,
-      img: ".https://www.savingdessert.com/wp-content/uploads/2019/02/Dan-Dan-Noodles-10.jpg",
+      img: "https://www.savingdessert.com/wp-content/uploads/2019/02/Dan-Dan-Noodles-10.jpg",
       desc: `Dan dan noodle, serving with green onion `,
     },
     {
