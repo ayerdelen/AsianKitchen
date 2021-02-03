@@ -19,6 +19,16 @@ h2 {
   margin-top: 20px;
 }
 
+.btn-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 40px 0;
+}
+.btn-item {
+  margin-left: 15px;
+}
+
 .photo {
   width: 30%;
   height: 175px;
